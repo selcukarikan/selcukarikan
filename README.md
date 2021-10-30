@@ -4,7 +4,7 @@
 
 # SELCUK ARIKAN
 
-**Automatisierungsingenieur, manuelles und automatisiertes Testen** zur Sicherstellung der Produktqualität, detailorientiert, verantwortlich für die Einhaltung der Fristen, starke Anpassungsfähigkeit an neue Umgebungen, bewährter Teamplayer, positiver, enthusiastischer, schneller Lerner.
+> Automatisierungsingenieur, manuelles und automatisiertes Testen zur Sicherstellung der Produktqualität, detailorientiert, verantwortlich für die Einhaltung der Fristen, starke Anpassungsfähigkeit an neue Umgebungen, bewährter Teamplayer, positiver, enthusiastischer, schneller Lerner.
 Erfahrung in Automatisierung und manuellen Tests auf UI/API/DataBase-Ebene von Anwendungen.
 Technische Fähigkeiten
 Testmethoden: Funktionale, Rauch-, Regressions-, Explorative, End-to-End-, Positiv-, Negativ-, Automatisierungs- und manuelle Testmethoden
