@@ -1,3 +1,4 @@
+<img src="istanbul.jpg" width="300" height="250" alt="istanbul manzara">
 ![](https://sii.pl/blog/wp-content/uploads/2017/06/tester.png)
 ---
 
