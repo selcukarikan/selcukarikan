@@ -1,5 +1,7 @@
 ![](https://sii.pl/blog/wp-content/uploads/2017/06/tester.png)
 
+Link edin profili icin [tiklayiniz ](https://www.linkedin.com/in/selcuk-arikan-28ab07216/)
+
 # SELCUK ARIKAN
 
 Automatisierungsingenieur, manuelles und automatisiertes Testen zur Sicherstellung der Produktqualität, detailorientiert, verantwortlich für die Einhaltung der Fristen, starke Anpassungsfähigkeit an neue Umgebungen, bewährter Teamplayer, positiver, enthusiastischer, schneller Lerner.
