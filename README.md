@@ -1,4 +1,4 @@
-[](https://sii.pl/blog/wp-content/uploads/2017/06/tester.png)
+![](https://sii.pl/blog/wp-content/uploads/2017/06/tester.png)
 
 # SELCUK ARIKAN
 
