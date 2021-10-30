@@ -1,16 +1,13 @@
-### Hi there 👋
+[](https://www.shutterstock.com/de/image-vector/automated-testing-vector-website-template-web-1494681677)
 
-<!--
-**selcukarikan/selcukarikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SELCUK ARIKAN
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automatisierungsingenieur, manuelles und automatisiertes Testen zur Sicherstellung der Produktqualität, detailorientiert, verantwortlich für die Einhaltung der Fristen, starke Anpassungsfähigkeit an neue Umgebungen, bewährter Teamplayer, positiver, enthusiastischer, schneller Lerner.
+Erfahrung in Automatisierung und manuellen Tests auf UI/API/DataBase-Ebene von Anwendungen.
+Technische Fähigkeiten
+Testmethoden: Funktionale, Rauch-, Regressions-, Explorative, End-to-End-, Positiv-, Negativ-, Automatisierungs- und manuelle Testmethoden
+Automatisierungstesttools: Selenium WebDriver/Grid, Cucumber, Maven, Jenkins
+Sprachen/Frameworks: Java, HTML, CSS, SQL, Gherkin
+Bug-Tracking-Tools: JIRA Xray
+RDBMS: Oracle-Datenbank
+IDE: IntelliJ, Eclipse, SQL-Entwickler
