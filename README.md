@@ -1,4 +1,4 @@
-[](https://www.shutterstock.com/de/image-vector/automated-testing-vector-website-template-web-1494681677)
+[](https://sii.pl/blog/wp-content/uploads/2017/06/tester.png)
 
 # SELCUK ARIKAN
 
