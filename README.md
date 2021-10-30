@@ -2,7 +2,7 @@
 ---
 
 # [Linkedin](https://www.linkedin.com/in/selcuk-arikan-28ab07216/)
----
+
 
 # SELCUK ARIKAN
 ---
